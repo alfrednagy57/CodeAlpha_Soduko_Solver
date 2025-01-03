@@ -70,5 +70,9 @@ Contributions are welcome! Feel free to submit issues or pull requests.
 
 ---
 
+## Contact
+
+For any inquiries, please contact the project maintainer at [linkedin](https://www.linkedin.com/in/alfred-nagy-882445224/).
+
 Thank you for checking out this Sudoku solver! Happy solving!
 
